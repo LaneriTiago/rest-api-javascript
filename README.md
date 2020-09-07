@@ -16,7 +16,7 @@
 - Salvar o atendimento no banco de dados.
 
 4ª etapa </br>
-Tratar datas com MomentJS;
+-Tratar datas com MomentJS;
 - Estudar tipos de status HTTP e quando são usados;
 - Validar entradas antes de enviar os dados para o banco de dados.
 
